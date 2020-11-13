@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="virranproduct.App">
+    <Application.Resources>
+        <!-- Application resource dictionary -->
+            <ResourceDictionary>
+            <x:String x:Key="MontserratFontBold">Montserrat-Bold</x:String>
+                <x:String x:Key="MontserratFontRegular">Montserrat-Regular</x:String>
+                <Color      x:Key="BackgroundColors">#794fe2</Color>
+                <Color      x:Key="Buttoncolor">#FF0000</Color>
+                <Color      x:Key="PageBackgroundColors">#D3D3D3</Color>
+                <Color      x:Key="BackgroundColorsDarkBlueheader">#3c4b73</Color>
+                <Color      x:Key="BackgroundColorsheader">#3c4b73</Color>
+                <Color      x:Key="BackgroundColorsLightBlue">#794fe2</Color>
+            <Color      x:Key="PrimaryDarkColor">#de5540</Color>
+            <x:String x:Key="Textheadercolor">#CCCCCC</x:String>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
